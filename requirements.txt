@@ -1,4 +1,4 @@
 # python==3.6
 fbs==0.8.6
 PySide2==5.14.1
-Pillow==7.0.0
+Pillow==8.1.1
